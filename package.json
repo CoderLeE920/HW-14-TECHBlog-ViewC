@@ -1,0 +1,31 @@
+{
+  "name": "hw-14-techblog-viewc",
+  "version": "1.0.0",
+  "description": "- [My Task](#my-task)\r - [User Story](#user-story)\r - [Acceptence Criteria](#acceptence-criteria)\r - [Presentation](#mock-up)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderLeE920/HW-14-TECHBlog-ViewC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoderLeE920/HW-14-TECHBlog-ViewC/issues"
+  },
+  "homepage": "https://github.com/CoderLeE920/HW-14-TECHBlog-ViewC#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
+    "express-session": "^1.17.2",
+    "modules": "^0.4.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  }
+}

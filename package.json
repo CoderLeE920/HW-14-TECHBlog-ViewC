@@ -2,7 +2,7 @@
   "name": "hw-14-techblog-viewc",
   "version": "1.0.0",
   "description": "- [My Task](#my-task)\r - [User Story](#user-story)\r - [Acceptence Criteria](#acceptence-criteria)\r - [Presentation](#mock-up)",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",

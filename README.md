@@ -58,6 +58,7 @@ so that I can publish articles, blog posts, and my thoughts and opinions.
 
 ## Mock Up
 [![tech-blog14.png](https://i.postimg.cc/SQ8g68xW/tech-blog14.png)](https://postimg.cc/F1rbmYcR)
+-deploy here(https://hw-14-techblog.herokuapp.com/login)
 
 ## Tips
 - This link will help you link your Heroku to your JawsDB
